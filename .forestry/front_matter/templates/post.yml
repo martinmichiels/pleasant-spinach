@@ -44,8 +44,6 @@ fields:
     required: true
 pages:
 - src/pages/posts/mon-état-avant-le-déménagement.md
-- src/pages/posts/2019-03-24-nature.md
-- src/pages/posts/2018-01-23-moving-to-new-york.md
 - src/pages/posts/2018-01-15-photography.md
 - src/pages/posts/2018-01-11-fox-village-in-japan.md
 - src/pages/posts/2018-01-07-fragments-of-iceland.md
