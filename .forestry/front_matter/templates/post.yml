@@ -44,4 +44,3 @@ fields:
     required: true
 pages:
 - src/pages/posts/mon-état-avant-le-déménagement.md
-- src/pages/posts/2016-08-22-working-from-home.md
