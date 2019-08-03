@@ -44,5 +44,4 @@ fields:
     required: true
 pages:
 - src/pages/posts/mon-état-avant-le-déménagement.md
-- src/pages/posts/2018-01-07-fragments-of-iceland.md
 - src/pages/posts/2016-08-22-working-from-home.md
