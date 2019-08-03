@@ -6,7 +6,7 @@
     "tagline": "Mes pensées en vrac",
     "logo_img": "",
     "bg_img": "images/header-bg.jpg",
-    "has_nav": true,
+    "has_nav": false,
     "has_social": false
   },
   "footer": {
