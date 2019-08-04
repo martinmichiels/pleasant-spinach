@@ -43,5 +43,6 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/idées-pour-les-professeurs-du-site-de-l-aefmat.md
 - src/pages/posts/reprise-des-travaux-après-deux-jours-d-arrêt.md
 - src/pages/posts/mon-état-avant-le-déménagement.md
