@@ -43,4 +43,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/reprise-des-travaux-après-deux-jours-d-arrêt.md
 - src/pages/posts/mon-état-avant-le-déménagement.md
