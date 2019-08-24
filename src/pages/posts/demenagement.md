@@ -1,3 +1,15 @@
+---
+template: post
+title: Changement climatique et Technique Alexander
+subtitle: Questions métaphysiques
+date: 2019-08-24T21:26:00Z
+thumb_img_path: ''
+content_img_path: ''
+excerpt: ''
+hide_header: false
+
+---
+
 Comensations matérielles. Nature dénaturée. Agriculture intensive. Violences 
 quotidiennes. Boomerang en pleine gueule.
 
