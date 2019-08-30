@@ -18,7 +18,20 @@ hide_header: false
 - Blog articles
 - Événements sur Google my business pour qu'ils se retrouvent directement dans le SERP
 ## Interviews d'experts :
-- John Nicholls (histoire et profs 1e génération)Ruth and Allan (CTC : école d'Alexander)Michèle Desonai (psy)Athanase Vettas (prof à Bruxelles)Malcolm King (voice)Eliane Lefebvre (kiné danse)Sarah Ludi (danse)Philippe Beumier (tai chi et chi Kong)Pedro de Alcantara (musicien, auteur)Géraldine Naus (voix)Anastasia (massotherapeute)Monika (violoniste)Monique Vanormelingen (zen bouddhisme)Claire Destrée (formatrice training course)
+- John Nicholls (histoire et profs 1e génération)
+Ruth and Allan (CTC : école d'Alexander)
+Michèle Desonai (psy)
+Athanase Vettas (prof à Bruxelles)
+Malcolm King (voice)
+Eliane Lefebvre (kiné danse)
+Sarah Ludi (danse)
+Philippe Beumier (tai chi et chi Kong)
+Pedro de Alcantara (musicien, auteur)
+Géraldine Naus (voix)
+Anastasia (massotherapeute)
+Monika (violoniste)
+Monique Vanormelingen (zen bouddhisme)
+Claire Destrée (formatrice training course)
 ## FAQ :
 ### Qu'est-ce que la Technique F.M. Alexander ?
 La Technique Alexander est une méthode d’éducation raisonnée qui s’appuie sur l’observation globale de la façon de « s’utiliser ». Elle fut créée et enseignée par Frederick Matthias Alexander, acteur australien (1869-1955). Sa méthode permet de travailler sur la manière dont on utilise la pensée et le corps dans toute activité. Elle offre un moment calme et posé de présence à soi et au monde pour pouvoir prendre conscience de ses habitudes et les remettre en question. Cela permet de choisir de ne plus aller vers les habitudes inconscientes qui rétrécissent l’individu et altèrent le bon fonctionnement de l’organisme. La pratique régulière de la Technique Alexander apporte de la liberté dans les mouvements et la pensée. Elle améliore la coordination et permet de retrouver sa verticalité. Cette technique est conseillée pour prévenir les inconforts qui peuvent survenir en raison d’un mauvais usage de soi dans la vie de tous les jours.
@@ -65,6 +78,8 @@ L'inhibition est le fait de s'arrêter face à un stimulus qui cause notre mauva
 Tout dépend bien sûr de chaque personne et du temps qu'elle est prête à consacrer à la Technique mais F.M. Alexander considérait que la majorité des personnes pouvaient appliquer la Technique par eux même en une trentaine de leçons.
 ### Pourquoi cela prend autant de temps ?
 Changer des habitudes qui sont ancrées depuis de nombreuses années et même parfois toute une vie demande du temps et de la persévérance, tant de la part de l'élève que du professeur. Le temps est vraiment "l'essence du contrat". La Technique Alexander ne propose pas de solution "miracle" mais je pense sincèrement qu'elle adresse les problèmes de fond et que l'engagement en vaut la chandelle.
+### Pourquoi n'aime-t-on pas les mots posture et bonne positon en technique Alexander ?
+## Idées d'articles et/ou de questions
 ### Moyens par lesquels ?
 ### Unicité corps esprit ?
 ### Alignement et verticalité.
@@ -75,7 +90,6 @@ Changer des habitudes qui sont ancrées depuis de nombreuses années et même pa
 ### Respiration whispered ah
 ### Marcher
 ### Porter des objets
-### Pourquoi n'aime-t-on pas les mots posture et bonne positon en technique Alexander ?
 ### Intention
 ## "How to" SERP Google :
 Recover intervertebral disc space by lying down in semi supine ?Tools :Lie down timerBMI calculator ?Walter Carrington et son élève :- Que faire avec la technique Alexander ? - Que faire ! Il faut défaire !On veut que le tout fonctionneSentiment de liberté.in the upright : enjoy
