@@ -19,19 +19,19 @@ hide_header: false
 - Événements sur Google my business pour qu'ils se retrouvent directement dans le SERP
 ## Interviews d'experts :
 - John Nicholls (histoire et profs 1e génération)
-Ruth and Allan (CTC : école d'Alexander)
-Michèle Desonai (psy)
-Athanase Vettas (prof à Bruxelles)
-Malcolm King (voice)
-Eliane Lefebvre (kiné danse)
-Sarah Ludi (danse)
-Philippe Beumier (tai chi et chi Kong)
-Pedro de Alcantara (musicien, auteur)
-Géraldine Naus (voix)
-Anastasia (massotherapeute)
-Monika (violoniste)
-Monique Vanormelingen (zen bouddhisme)
-Claire Destrée (formatrice training course)
+- Ruth and Allan (CTC : école d'Alexander)
+- Michèle Desonai (psy)
+- Athanase Vettas (prof à Bruxelles)
+- Malcolm King (voice)
+- Eliane Lefebvre (kiné danse)
+- Sarah Ludi (danse)
+- Philippe Beumier (tai chi et chi Kong)
+- Pedro de Alcantara (musicien, auteur)
+- Géraldine Naus (voix)
+- Anastasia (massotherapeute)
+- Monika (violoniste)
+- Monique Vanormelingen (zen bouddhisme)
+- Claire Destrée (formatrice training course)
 ## FAQ :
 ### Qu'est-ce que la Technique F.M. Alexander ?
 La Technique Alexander est une méthode d’éducation raisonnée qui s’appuie sur l’observation globale de la façon de « s’utiliser ». Elle fut créée et enseignée par Frederick Matthias Alexander, acteur australien (1869-1955). Sa méthode permet de travailler sur la manière dont on utilise la pensée et le corps dans toute activité. Elle offre un moment calme et posé de présence à soi et au monde pour pouvoir prendre conscience de ses habitudes et les remettre en question. Cela permet de choisir de ne plus aller vers les habitudes inconscientes qui rétrécissent l’individu et altèrent le bon fonctionnement de l’organisme. La pratique régulière de la Technique Alexander apporte de la liberté dans les mouvements et la pensée. Elle améliore la coordination et permet de retrouver sa verticalité. Cette technique est conseillée pour prévenir les inconforts qui peuvent survenir en raison d’un mauvais usage de soi dans la vie de tous les jours.
