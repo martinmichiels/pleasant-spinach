@@ -58,7 +58,7 @@ F.M. Alexander était un acteur australien (1869 - 1951). Il a rapidement eu de 
 - ​Gérer plus facilement des sautes d'humeur​
 ​- Dire non et arrêter ce qui ne vous convient pas​
 ### À qui s'adresse la Technique Alexander ?
-La Technique Alexander s'adresse à toute personne désirant trouver une solution des problèmes liés​ ​à leurs mauvaises habitudes d'usage.​
+La Technique Alexander s'adresse à toute personne désirant trouver une solution à des problèmes liés​ ​à leurs mauvaises habitudes d'usage.​
 ### La technique Alexander est elle une technique corporelle ?
 Oui et non : La technique Alexander s'occupe de l'usage que vous faites de vous-même dans la vie de tous les jours. Vous utilisez votre corps et notre mental continuellement pour vivre. La relation entre la pensée et le muscle (et le reste du corps) est bien plus intime qu'elle n'en a l'air à priori. La porte d'entrée de la Technique Alexander peut sembler le corporelle mais il y a de fortes chances que votre professeur vous demande​ de vous arrêter,​ de penser​ à​ diriger​ ​consciemment vos actions de telle manière à ce que vous ne tombiez plus dans vos anciennes habitudes néfastes.
 ### La technique Alexander est-elle une médecine douce ou une thérapie ?
@@ -66,7 +66,17 @@ Non ! Bien que la Technique Alexander ait de nombreux effets thérapeutiques, la
 ### La Technique Alexander peut-elle remplacer un traitement médical ?
 Non ! La plupart des professeurs de la Technique Alexander ne sont pas formés à la pathologie. Prendre des leçons de Technique Alexander ne remplace en aucun cas un diagnostique médical et un traitement adapté des pathologies. À moins que votre professeur de Technique Alexander ne soit médecin ou kinésithérapeute n'attendez-pas de diagnostic de votre professeur de Technique Alexander.
 ### Quels sont les principaux termes du jargon alexander ?
-Bien qu'Alexander essayait d'utiliser du vocabulaire que tout le monde pouvait comprendre et qu'il détestait le jargon scientifique, voici quelques termes que vous rencontrerez certainement dans ses écrits et dans la littérature F.M. Alexander : Inhibition, Direction, Appréciation sensorielle faussée, moyens par lesquels réaliser une action, position d'avantage mécanique, end gaining, primary control (contrôle primaire ou contrôle premier), l'unité corps-mental, coordination...
+Bien qu'Alexander essayait d'utiliser du vocabulaire que tout le monde pouvait comprendre et qu'il détestait le jargon scientifique, voici quelques termes que vous rencontrerez certainement dans ses écrits et dans la littérature F.M. Alexander :
+- Inhibition
+- Direction
+- Appréciation sensorielle faussée
+- moyens par lesquels (réaliser une action)
+- position d'avantage mécanique
+- end gaining
+- primary control (contrôle primaire ou contrôle premier)
+- l'unité corps-mental
+- coordination
+- kinesthésie
 ### Qu'est ce qu'une direction en Technique Alexander ?
 Diriger son énergie dans une action consiste à penser consciemment des injonctions qui nous rappellent la direction​ du mouvement ou de l'action à réaliser afin de ne pas retomber dans notre ancienne habitude.
 ### Qu'est ce que l'inhibition en Technique Alexander ?
@@ -75,10 +85,11 @@ L'inhibition est le fait de s'arrêter face à un stimulus qui cause notre mauva
 ### Que veut on dire par end​-​gaining dans le jargon de la Technique Alexander ?
 ### Qu'est-ce que l'appréciation sensorielle faussée ?
 ### Combien de leçons faut-il pour apprendre la Technique Alexander ?​
-Tout dépend bien sûr de chaque personne et du temps qu'elle est prête à consacrer à la Technique mais F.M. Alexander considérait que la majorité des personnes pouvaient appliquer la Technique par eux même en une trentaine de leçons.
+Tout dépend bien sûr de chaque personne et du temps qu'elle est prête à consacrer à la Technique dans leur vie quotidienne mais F.M. Alexander considérait que la majorité des personnes pouvaient appliquer la Technique par eux-mêmes en une trentaine de leçons.
 ### Pourquoi cela prend autant de temps ?
 Changer des habitudes qui sont ancrées depuis de nombreuses années et même parfois toute une vie demande du temps et de la persévérance, tant de la part de l'élève que du professeur. Le temps est vraiment "l'essence du contrat". La Technique Alexander ne propose pas de solution "miracle" mais je pense sincèrement qu'elle adresse les problèmes de fond et que l'engagement en vaut la chandelle.
 ### Pourquoi n'aime-t-on pas les mots posture et bonne positon en technique Alexander ?
+En tant que professeurs de Technique Alexander, nous avons remarqué que les mots posture et bonne position ont vraiment tendance à représenter de la fixation et des mouvements figés pour la majorité des personnes. En Technique Alexander, c'est exactement le contraire que nous cherchons. Nous ne recherchons pas une ponne posture mais unune tonicité alliant dynamisme et souplesse qui soit adaptée à chaque instant. C'est cet état qui favorise le développement de la personne au quotidien. La bonne posture d'hier peut être une moins bonne posture aujourd'hui. En effet, comment intégrer une spirale de changement positif si vous vous figez dans une nouvelle "bonne position". C'est pourquoi Alexander affirmait qu'il n'y avait pas de bonne position mais bien une bonne direction de l'usage de soi. C'est justement en dirigeant consciemment notre énergie et notre tonus musculaire dans la bonne direction que nous retrouvons indirectement ce qui peut sembler être une bonne posture ou des bonnes positions. Vous aurez compris que c'est beaucoup plus fin et intégré que ça. Une étude ont d'ailleurs prouvé que la posture telle qu'elle est comprise actuellement par les scientifiques n'influence pas la bonne santé.
 ## Idées d'articles et/ou de questions
 ### Moyens par lesquels ?
 ### Unicité corps esprit ?
