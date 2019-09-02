@@ -85,13 +85,17 @@ Bien qu'Alexander essayait d'utiliser du vocabulaire que tout le monde pouvait c
 - coordination
 - kinesthésie
 ### Qu'est ce que l'inhibition en Technique Alexander ?
-L'inhibition est le fait de s'arrêter face à un stimulus qui cause une mauvaise habitude et, petit à petit, d'apprendre à gérer notre ​"​envie​"​ irrésistible de retomber dans votre ancienne habitude. Ce petit temps de pose avant d'agir de façon habituelle vous permettra d'expérimenter un nouveau chemin et, à terme, de changer votre mauvaise habitude.
+L'inhibition est le fait de vous arrêter face à un stimulus qui cause une mauvaise habitude et, petit à petit, d'apprendre à gérer votre ​"​envie​"​ irrésistible de retomber dans votre ancienne habitude. Ce petit temps de pose avant d'agir de façon habituelle vous permettra d'expérimenter un nouveau chemin et, à terme, de changer votre mauvaise habitude.
 ### Qu'est ce qu'une direction en Technique Alexander ?
 Diriger sa pensée et son énergie au repos ou dans une action consiste à penser consciemment des injonctions qui nous rappellent la direction​ du mouvement ou de l'action à réaliser afin de ne pas retomber dans notre ancienne habitude.
 ### Pourquoi la relation entre la tête et cou est-elle si importante en Technique Alexander ?
 F.M. Alexander a découvert que la relation entre la tête et le cou fait partie d'un shéma global d'habitudes d'usage de soi. Il a remarqué que lorsqu'une personne utilise trop (ou trop peu) de tension pour réaliser une action, l'on pouvait systématiquement déceler un racourrcissement des muscles du cou. C'est donc un bon moyen de vérifier si l'usage global d'une personne tend vers une amélioration de sa coordination ou vers le contraire. Alexander a appelé la relation tête-cou-dos-reste du corps le contrôle primaire (ou primodrial). Les deux premières directions qu'Alexander a découvert lors de sa rééducation personnelle sont d'ailleurs : "Mon cou est libre pour que ma tête puisse aller vers le haut et vers l'avant."
 ### Que veut on dire par end​-​gaining dans le jargon de la Technique Alexander ?
+End-gaining signifie aller droit au but sans se soucier des moyens par lesquels réaliser une action. En effet, il vous est tout à fait possible d'être très efficace sans pour autant que vos mouvements soient efficients. Vous perdez alors beaucoup d'énergie : vos muscles finissent par faire mal et vos articulations s'useront plus rapidement que ce la norme.
 ### Qu'est-ce que l'appréciation sensorielle faussée ?
+Alexander a découvert que notre appréciation sensorielle peut être tellement fausse que nous avons parfois l'impression de faire ce que nous voulons faire mais nous faisons exactement l'inverse de ce que nous pensons faire. Il a appelé ça l'apppréciation sensorielle faussée.
+### Qu'est-ce que le triangle Usage, Fonctionnement, Structure ?
+L'usage que nous faisons de nous mêmes (penser, bouger etc.) influence le fonctionnement de notre organisme. Il influence aussi la structure de notre organisme.
 ## Idées d'articles et/ou de questions
 ### Moyens par lesquels
 ### Unicité corps esprit
@@ -113,3 +117,13 @@ Walter Carrington et son élève : - Que faire avec la technique Alexander ? - Q
 On veut que le tout fonctionneSentiment de liberté.in the upright : enjoy
 Se donner sa longueur n'est pas un luxe, c'est une nécessité.
 Livre : Biomécanique du guitariste” de Laurent Rousseau (kiné)
+
+Neil Patel's Tips to create a personal brand :
+- Blog 1x/semaine
+- 4 conférences par an minimum (une tous les trois mois)
+- Weekly podcast
+- Create educational based videos + transcriptions
+- Genuinely care for people
+- Give it time
+
+Emotions - Stroytelling !
